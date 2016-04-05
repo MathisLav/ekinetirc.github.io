@@ -4,3 +4,5 @@ rvm:
 env:
   global:
     - JEKYLL_ENV=travis
+notifications:
+  webhooks: http://n.tkte.ch/h/4710/TnaYJlLT0l10_HwOciHjND_8
