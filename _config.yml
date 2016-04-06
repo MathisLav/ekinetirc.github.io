@@ -38,4 +38,5 @@ noita:
         class: small button
     right:
       - name: L'équipe
+        src: /noita/images/crew.png
         url: /equipe.html
